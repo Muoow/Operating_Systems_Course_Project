@@ -1,4 +1,15 @@
 # Operating_Systems_Course_Project
+
+## 仓库名称
+
+Operating_Systems_Course_Project
+
+## 仓库简介
+
 2025同济大学操作系统课程项目
 
-## [进程管理项目]<https://github.com/Muoow/Operating_Systems_Course_Project/edit/main/Elevator_Dispatching_System>
+## 仓库组成
+
+* [进程管理项目](Elevator_Dispatching_System)
+* 内存管理项目
+* 文件管理项目
